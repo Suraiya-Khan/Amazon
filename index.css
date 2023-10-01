@@ -84,6 +84,10 @@ body {
   100%{background-color: rgb(237, 211, 9);}
 }
 
+.caros{
+  height:400px;
+}
+
 .products {
   z-index: 2;
   width: 100%;
