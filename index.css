@@ -14,6 +14,7 @@ body {
   text-decoration: none;
   top: 0;
   height: 60px;
+  z-index:1;
 }
 
 .nav-bar li {
