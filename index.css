@@ -81,10 +81,11 @@ body {
   25%{background-color: green;}
   50%{background-color: rgb(128, 0, 0);}
   75%{background-color: rgb(128, 0, 100);}
-  105%{background-color: rgb(237, 211, 9);}
+  100%{background-color: rgb(237, 211, 9);}
 }
 
 .products {
+  z-index: 2;
   width: 100%;
   align-items: center;
 }
