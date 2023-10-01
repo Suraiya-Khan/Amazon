@@ -84,9 +84,7 @@ body {
   100%{background-color: rgb(237, 211, 9);}
 }
 
-.caros{
-  height:400px;
-}
+
 
 .products {
   z-index: 2;
@@ -95,6 +93,7 @@ body {
 }
 
 .container {
+  z-index: 2;
   height: 400px;
   display: flex;
   flex-wrap: wrap;
